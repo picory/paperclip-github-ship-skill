@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paperclip GitHub Ship"
+  short_description: "Install and use the GitHub Ship Paperclip plugin."
+  default_prompt: "Install, configure, or use the GitHub Ship Paperclip plugin for workflow preview, PR creation, and merge flows."
